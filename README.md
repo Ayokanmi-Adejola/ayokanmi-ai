@@ -1,0 +1,1 @@
+This project provides a simple interface for processing text with AI. It detects language, summarizes longer texts (in English), and translates between several languages using Chrome's AI APIs. Built with HTML, CSS, and JavaScript
